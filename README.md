@@ -37,3 +37,8 @@ Integrated the supplied Renew Outdoor van, gutter-vac, high-reach and water-fed-
 ## v5 launch-candidate improvements
 
 Compressed the supplied one-minute MP4 from about 11 MB to about 5.6 MB and switched it to click-to-load behaviour, added a dedicated service-area page, keyboard skip links/focus states, and another internal-link/accessibility pass. The live domain is still untouched and no CNAME has been added.
+
+
+## v6 GitHub Pages hotfix
+
+Media references now point to repository-root files because the GitHub web upload placed media at root rather than inside an `assets` folder.
