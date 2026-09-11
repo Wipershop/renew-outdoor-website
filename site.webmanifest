@@ -1,0 +1,9 @@
+{
+  "name": "Renew Outdoor",
+  "short_name": "Renew Outdoor",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10253d",
+  "icons": []
+}
